@@ -2,6 +2,7 @@
 
 * [序言](README.md)
 * [目录](/SUMMARY.md)
+* [帮助](/help.md)
 
 ## Day1.AM:产品规划
 
