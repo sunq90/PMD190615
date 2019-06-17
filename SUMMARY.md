@@ -33,7 +33,7 @@
 
 ## 后记
 
-* [备注](hou-ji-1/bei-zhu.md)
-* [参考](hou-ji-1/can-kao.md)
-* [致谢](hou-ji-1/thanks.md)
+* [备注](hou-ji/bei-zhu.md)
+* [参考](hou-ji/can-kao.md)
+* [致谢](hou-ji/thanks.md)
 
