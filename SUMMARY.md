@@ -1,6 +1,10 @@
-# 目录
+# Table of contents
 
 * [序言](README.md)
+* [备注](bei-zhu.md)
+* [参考](can-kao.md)
+* [致谢](zhi-xie.md)
+* [后记](hou-ji.md)
 
 ## Day1.AM:产品规划
 
@@ -28,6 +32,6 @@
 * [数据分析的重要意义](shu-ju-fen-xi/shu-ju-fen-xi-de-zhong-yao-yi-yi.md)
 * [数据运营案例实践](shu-ju-fen-xi/shu-ju-yun-ying-an-li-shi-jian.md)
 * [数据分析方法与案例](shu-ju-fen-xi/shu-ju-fen-xi-fang-fa-yu-an-li.md)
-* [数据驱动产品增长](shu-ju-fen-xi/shu-ju-qu-dong-chan-pin-zeng-chang.md)
-* [个人数据分析能力提升](shu-ju-fen-xi/ge-ren-shu-ju-fen-xi-neng-li-ti-sheng.md)
+* [数据驱动产品增长\(延伸\)](shu-ju-fen-xi/shu-ju-qu-dong-chan-pin-zeng-chang.md)
+* [个人数据分析能力提升\(延伸\)](shu-ju-fen-xi/ge-ren-shu-ju-fen-xi-neng-li-ti-sheng.md)
 
