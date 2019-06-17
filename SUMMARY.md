@@ -32,6 +32,8 @@
 * [个人数据分析能力提升\(延伸\)](shu-ju-fen-xi/ge-ren-shu-ju-fen-xi-neng-li-ti-sheng.md)
 
 ## 后记
-* [备注](bei-zhu.md)
-* [参考](can-kao.md)
-* [致谢](zhi-xie.md)
+
+* [备注](hou-ji-1/bei-zhu.md)
+* [参考](hou-ji-1/can-kao.md)
+* [致谢](hou-ji-1/thanks.md)
+
