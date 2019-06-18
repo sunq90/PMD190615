@@ -9,7 +9,7 @@
 1.下载GitHub Desktop和Markdown编辑器;
 
 - GitHub Desktop下载地址：https://desktop.github.com/
-- Markdown编辑器：市面上有很多，我用的是Typora，轻量且有GitHub风格，下载地址：https://www.typora.io/
+- Markdown编辑器：市面上有很多，我用的是Typora，轻量、免费、直接预览，且有GitHub风格，下载地址：https://www.typora.io/
 
 2.将主线的项目Fork到本地;
 
@@ -30,5 +30,11 @@
 
 5.申请合并;
 
-- 
-
+- 将内容提交至自己的GitHub后，通过pull requests来申请合并数据，不多废话，直接上图了！
+- ![13](image/13.png)
+- ![14](image/14.png)
+- 自己看图去理解吧，想要拉取主线内容和将自己的内容合并到主线，都是酱紫的！
+- ![15](image/15.png)
+- ![16](image/16.png)
+- ![18](image/18.png)
+- 这些动作完成之后我会收到合并的请求，我在主线接收后即可完成合并。
