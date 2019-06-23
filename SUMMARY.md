@@ -20,10 +20,9 @@
 
 ## DAY2.AM:产品运营
 
-* [PMD为什么要懂运营](chan-pin-yun-ying/yun-ying-ru-men.md)
-* [全栈运营视角](chan-pin-yun-ying/quan-zhan-yun-ying-shi-jiao.md)
-* [PMD的运营软实力](chan-pin-yun-ying/yun-ying-ruan-shi-li.md)
-* [心灵鸡汤](chan-pin-yun-ying/xin-ling-ji-tang.md)
+* [基础知识](chan-pin-yun-ying/ji-chu-zhi-shi.md)
+* [方法论](chan-pin-yun-ying/fang-fa-lun.md)
+* [案例](chan-pin-yun-ying/case.md)
 
 ## DAY2.PM:数据分析
 
