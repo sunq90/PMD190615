@@ -56,9 +56,5 @@ PS：在低频的场景下构建高频功能，这样用户才会在我们的低
 - 知彼：基于用户需求场景的竞品分析。例如，我们将相册的使用需求归为照片存储的话，那么网盘类产品的存储和检索比相册的优势要大；
 - 产品和竞品分析后，应总结决策原因，并拆分量化目标；
 
-<<<<<<< HEAD
-[smart原则](fang-fa-lun.md)
-=======
-[smart原则](chan-pin-yun-ying/fang-fa-lun.md)
->>>>>>> ea6ecd534a1c51bf25b4228cbeeee0de384da436
+[smart原则](fang-fa-lun.md#SMART原则)
 
