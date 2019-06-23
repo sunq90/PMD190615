@@ -19,4 +19,8 @@
 - 绩效指标必须是可以衡量的（Measurable）
 - 绩效指标必须是可以达到的（Attainable）
 - 绩效指标是要与其他目标具有一定的相关性(Relevant)
-- 
+- 绩效指标必须具有明确的截止期限（Time-bound）
+
+## 马斯洛需求层次理论
+
+![masiluoxuqiu](/Users/sun/GitHub/PMD190615/image/masiluoxuqiu-1281113.png)
