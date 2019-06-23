@@ -87,8 +87,9 @@ PS：在低频的场景下构建高频功能，这样用户才会在我们的低
 
 案例：
 
-- 对白茶社
+- [对白茶社](case.md#dui-bai-che-she)
 - 装逼也是一种刚需（P204）
-- 给用户一个场景，如果没有就造一个
+- [给用户一个场景，如果没有就造一个](case.md#zhi-zao-chang-jing-zuo-yun-ying)
 
-方法论：马斯洛需求理论，
+方法论：[马斯洛需求理论](fang-fa-lun.md#ma-si-luo-xu-qiu-ceng-ci-li-lun)
+
